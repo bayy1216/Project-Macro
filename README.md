@@ -21,7 +21,7 @@ python3 프로젝트-경로/flutter/flutter_feat.py
 
 ## Kotlin Spring
 ```console
-python3 프로젝트-경로/flutter/spring_feat.py
+python3 프로젝트-경로/spring_kotlin/spring_feat.py
 ```
 
 ## Java Spring
